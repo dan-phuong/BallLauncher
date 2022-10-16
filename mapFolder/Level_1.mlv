@@ -1,0 +1,11 @@
+[Map Name]:
+'Level_1'
+[Objects]:order for object attributes: posX posY width height mass velocityX velocityY HP spritePath ColorR ColorG ColorB
+Ball 250 350 50 50 400.0 0.0 0.0 200 none 169 2 45 ;
+Block 1200 500 50 50 15.0 0.0 0.0 100 none 165 168 172 ;
+Block 1200 448 50 50 15.0 0.0 0.0 100 none 165 168 172 ;
+Block 1200 396 50 50 15.0 0.0 0.0 100 none 165 168 172 ;
+Block 1252 448 50 50 15.0 0.0 0.0 100 none 165 168 172 ;
+Block 1252 500 50 50 15.0 0.0 0.0 100 none 165 168 172 ;
+Block 1252 396 50 50 15.0 0.0 0.0 100 none 165 168 172 ;
+Target 1225 344 50 50 15.0 0.0 0.0 100 none 180 203 54 ;
